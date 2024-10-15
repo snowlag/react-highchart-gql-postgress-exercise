@@ -1,4 +1,4 @@
-# Securities Management Application
+# Securities Management Dashboard
 
 This is a full-stack web application built to manage securities data. The project includes a **Postgress** to store data, **GraphQL backend** to serve data, a **React frontend** to display the data with features like pagination, and a **data pusher script** to load securities data from a JSON file into a PostgreSQL database.
 
