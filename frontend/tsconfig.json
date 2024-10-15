@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "types": ["jest", "node"],
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "lib": ["DOM", "ES2015"],
+    "module": "commonjs",
+    "jsx": "react",
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": true
+  },
+  "include": ["src/**/*", "tests/**/*"]
+}
