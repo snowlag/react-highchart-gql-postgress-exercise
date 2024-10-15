@@ -30,11 +30,11 @@ const SecurityList = () => {
   };
 
   const handleNext = () => {
-    setOffset(offset + limit); 
+    setOffset(offset + limit);
   };
 
   const handlePrevious = () => {
-    setOffset(Math.max(0, offset - limit)); 0)
+    setOffset(Math.max(0, offset - limit));
   };
 
   return (
@@ -88,7 +88,7 @@ const SecurityList = () => {
           variant="contained"
           color="primary"
           onClick={handlePrevious}
-          disabled={offset === 0} 
+          disabled={offset === 0}
         >
           Previous
         </Button>
@@ -97,7 +97,7 @@ const SecurityList = () => {
           variant="contained"
           color="primary"
           onClick={handleNext}
-          disabled={data.securities.length < limit} 
+          disabled={data.securities.length < limit}
         >
           Next
         </Button>
