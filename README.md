@@ -6,7 +6,7 @@ This is a full-stack web application built to manage securities data. The projec
 
 Video link - https://drive.google.com/file/d/1lQ8x-KznKm9DRL5aQu0cKZyzB7sP8v48/view?usp=drive_link
 
-Click the image above to watch a video demo of the application.
+Click the above link to watch a video demo of the application.
 ###  screenshots
 
 ![image](https://github.com/user-attachments/assets/26c3c1fc-bb76-4a3c-8745-4d7f0c29307c)
